@@ -20,7 +20,7 @@ software
 
 - you can clone my repo by that link
 ```
-git clone 
+git clone https://github.com/YaseenIslam2005/Yaseen_MindCloud.git
 ```
 
 
