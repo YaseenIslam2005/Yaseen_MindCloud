@@ -1,3 +1,2 @@
 Hala Madrid
-Mind Tasks git
-software team
+Mind Tasks 
